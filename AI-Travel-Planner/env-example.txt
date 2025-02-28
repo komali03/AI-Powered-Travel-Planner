@@ -1,0 +1,2 @@
+# Google API Key for GenAI
+GOOGLE_API_KEY="AIzaSyCm9ESax2le9Oi1FugrhDEnL-I35s9v_Sk"
