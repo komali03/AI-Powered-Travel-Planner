@@ -107,9 +107,9 @@ MIT License. Feel free to modify and use it. 🚀
 ---
 
 ## **📞 Contact**
-🔹 **GitHub:** [your-username](https://github.com/komali-03)  
-🔹 **LinkedIn:** [your-profile](https://www.linkedin.com/in/radha-komalidevi-m-11280722b/)  
-🔹 **Email:** mrkomalidevi03@gmail.com
+🔹 **GitHub:** [https://github.com/komali-03]  
+🔹 **LinkedIn:** [https://www.linkedin.com/in/radha-komalidevi-m-11280722b/]  
+🔹 **Email:** [mrkomalidevi03@gmail.com]
 
 ---
 
