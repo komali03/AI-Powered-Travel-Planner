@@ -1,4 +1,4 @@
-### **📌 AI Travel Planner**
+### **📌 AI Powered Travel Planner**
 🚀 **AI-Powered Travel Cost Estimator & Planner** using **Streamlit, LangChain, and Google Generative AI**  
 
 ---
